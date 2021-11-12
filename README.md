@@ -3,4 +3,4 @@ My first game built using the Unity game engine. Players attempt to place planet
 
 [Play it here!](https://triskit124.github.io/Orbit/)
 
-![Orbit](src\show_off.gif)
+![Orbit](src/show_off.gif)
